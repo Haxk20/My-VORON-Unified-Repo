@@ -1,0 +1,9 @@
+[submodule "StealthBurner-LED-Effects"]
+	path = StealthBurner-LED-Effects
+	url = https://github.com/Haxk20/StealthBurner-LED-Effects.git
+[submodule "VORON-Firmware-Builder"]
+	path = VORON-Firmware-Builder
+	url = https://github.com/Haxk20/VORON-Firmware-Builder.git
+[submodule "klipper-configuration"]
+	path = klipper-configuration
+	url = https://github.com/Haxk20/klipper-configuration.git
